@@ -1,0 +1,389 @@
+.Board {
+    position: absolute;
+    top: 100px;
+    left: 100px;
+}
+
+.a1 {
+    position: absolute;
+    top: 800px;
+    left: 110px;
+}
+
+.b1 {
+    position: absolute;
+    top: 800px;
+    left: 220px;
+}
+
+.c1 {
+    position: absolute;
+    top: 800px;
+    left: 320px;
+}
+
+.d1 {
+    position: absolute;
+    top: 800px;
+    left: 420px;
+}
+
+.e1 {
+    position: absolute;
+    top: 800px;
+    left: 520px;
+}
+
+.f1 {
+    position: absolute;
+    top: 800px;
+    left: 620px;
+}
+
+.g1 {
+    position: absolute;
+    top: 800px;
+    left: 720px;
+}
+
+.h1 {
+    position: absolute;
+    top: 800px;
+    left: 820px;
+}
+
+.a2 {
+    position: absolute;
+    top: 710px;
+    left: 100px;
+}
+
+.b2 {
+    position: absolute;
+    top: 710px;
+    left: 220px;
+}
+
+.c2 {
+    position: absolute;
+    top: 710px;
+    left: 320px;
+}
+
+.d2 {
+    position: absolute;
+    top: 710px;
+    left: 420px;
+}
+
+.e2 {
+    position: absolute;
+    top: 710px;
+    left: 520px;
+}
+
+.f2 {
+    position: absolute;
+    top: 710px;
+    left: 620px;
+}
+
+.g2 {
+    position: absolute;
+    top: 710px;
+    left: 720px;
+}
+
+.h2 {
+    position: absolute;
+    top: 710px;
+    left: 820px;
+}
+
+.a3 {
+    position: absolute;
+    top: 620px;
+    left: 100px;
+}
+
+.b3 {
+    position: absolute;
+    top: 620px;
+    left: 220px;
+}
+
+.c3 {
+    position: absolute;
+    top: 620px;
+    left: 320px;
+}
+
+.d3 {
+    position: absolute;
+    top: 620px;
+    left: 420px;
+}
+
+.e3 {
+    position: absolute;
+    top: 620px;
+    left: 520px;
+}
+
+.f3 {
+    position: absolute;
+    top: 620px;
+    left: 620px;
+}
+
+.g3 {
+    position: absolute;
+    top: 620px;
+    left: 720px;
+}
+
+.h3 {
+    position: absolute;
+    top: 620px;
+    left: 820px;
+}
+
+.a4 {
+    position: absolute;
+    top: 530px;
+    left: 100px;
+}
+
+.b4 {
+    position: absolute;
+    top: 530px;
+    left: 220px;
+}
+
+.c4 {
+    position: absolute;
+    top: 530px;
+    left: 320px;
+}
+
+.d4 {
+    position: absolute;
+    top: 530px;
+    left: 420px;
+}
+
+.e4 {
+    position: absolute;
+    top: 530px;
+    left: 520px;
+}
+
+.f4 {
+    position: absolute;
+    top: 530px;
+    left: 620px;
+}
+
+.g4 {
+    position: absolute;
+    top: 530px;
+    left: 720px;
+}
+
+.h4 {
+    position: absolute;
+    top: 530px;
+    left: 820px;
+}
+
+.a5 {
+    position: absolute;
+    top: 430px;
+    left: 100px;
+}
+
+.b5 {
+    position: absolute;
+    top: 430px;
+    left: 220px;
+}
+
+.c5 {
+    position: absolute;
+    top: 430px;
+    left: 320px;
+}
+
+.d5 {
+    position: absolute;
+    top: 430px;
+    left: 420px;
+}
+
+.e5 {
+    position: absolute;
+    top: 430px;
+    left: 520px;
+}
+
+.f5 {
+    position: absolute;
+    top: 430px;
+    left: 620px;
+}
+
+.g5 {
+    position: absolute;
+    top: 430px;
+    left: 720px;
+}
+
+.h5 {
+    position: absolute;
+    top: 430px;
+    left: 820px;
+}
+
+.a6 {
+    position: absolute;
+    top: 330px;
+    left: 100px;
+}
+
+.b6 {
+    position: absolute;
+    top: 330px;
+    left: 220px;
+}
+
+.c6 {
+    position: absolute;
+    top: 330px;
+    left: 320px;
+}
+
+.d6 {
+    position: absolute;
+    top: 330px;
+    left: 420px;
+}
+
+.e6 {
+    position: absolute;
+    top: 330px;
+    left: 520px;
+}
+
+.f6 {
+    position: absolute;
+    top: 330px;
+    left: 620px;
+}
+
+.g6 {
+    position: absolute;
+    top: 330px;
+    left: 720px;
+}
+
+.h6 {
+    position: absolute;
+    top: 330px;
+    left: 820px;
+}
+
+.a7 {
+    position: absolute;
+    top: 230px;
+    left: 100px;
+}
+
+.b7 {
+    position: absolute;
+    top: 230px;
+    left: 220px;
+}
+
+.c7 {
+    position: absolute;
+    top: 230px;
+    left: 320px;
+}
+
+.d7 {
+    position: absolute;
+    top: 230px;
+    left: 420px;
+}
+
+.e7 {
+    position: absolute;
+    top: 230px;
+    left: 520px;
+}
+
+.f7 {
+    position: absolute;
+    top: 230px;
+    left: 620px;
+}
+
+.g7 {
+    position: absolute;
+    top: 230px;
+    left: 720px;
+}
+
+.h7 {
+    position: absolute;
+    top: 230px;
+    left: 820px;
+}
+
+.a8 {
+    position: absolute;
+    top: 120px;
+    left: 100px;
+}
+
+.b8 {
+    position: absolute;
+    top: 120px;
+    left: 220px;
+}
+
+.c8 {
+    position: absolute;
+    top: 120px;
+    left: 320px;
+}
+
+.d8 {
+    position: absolute;
+    top: 120px;
+    left: 420px;
+}
+
+.e8 {
+    position: absolute;
+    top: 120px;
+    left: 520px;
+}
+
+.f8 {
+    position: absolute;
+    top: 120px;
+    left: 620px;
+}
+
+.g8 {
+    position: absolute;
+    top: 120px;
+    left: 720px;
+}
+
+.h8 {
+    position: absolute;
+    top: 120px;
+    left: 820px;
+}
